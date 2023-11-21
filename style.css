@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 5;
+    padding: 5;
+    background-color:beige;
+}
+ 
+ 
+header {
+    background-color: rgb(255, 221, 30)55, 207, 117);
+    color: #fff;
+    opacity: 0;
+    text-align : center;
+    padding: 20px;
+    margin: 5;
+}
+ 
+.Catálogo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    margin: 5px;
+}
+ 
+.Catálog{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    margin: 15px;
+}
+ 
+.container img {
+    max-width: 1000px;
+    max-height:500px;
+    width: auto;
+    height: auto;
+}
+ 
+.Catalogo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    margin: 15px;
+}
